@@ -8,7 +8,7 @@ type: "tech" # tech: 技術記事 / idea: アイデア記事
 
 topics: ["個人開発", "saas", "threads", "instagram", "python"]
 
-published: false
+published: true
 
 ---
 
