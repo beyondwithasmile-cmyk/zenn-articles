@@ -2,7 +2,7 @@
 
 title: "靴屋の店主が、日々のSNS投稿が面倒すぎてThreads同時投稿ツールを自作した話"
 
-emoji: "👟"
+emoji: "🚀"
 
 type: "tech" # tech: 技術記事 / idea: アイデア記事
 
@@ -14,7 +14,7 @@ published: false
 
 
 
-![SNS Studio — 靴屋の店主が作った、Threads対応マルチSNS投稿ツール](/images/zenn_01_eyecatch.png)
+![SNS Studio — 靴屋の店主が作った、Threads対応マルチSNS投稿ツール](/images/ig_post_sns_studio_v2.png)
 
 ## この記事で得られるもの（30秒で読める要点）
 
