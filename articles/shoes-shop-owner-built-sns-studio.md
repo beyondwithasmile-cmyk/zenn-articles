@@ -20,7 +20,7 @@ published: true
 
 
 
-**この記事では、神奈川で高級靴専門店「KING of SHOES」を経営している私が、Instagram・Threads・Facebook の3SNS同時投稿ツール「SNS Studio」を、3ヶ月で自作した過程を全公開します。**
+**この記事では、神奈川で高級靴専門店「KING of SHOES」を経営している私が、Instagram・Threads・Facebook・X の4SNS同時投稿ツール「SNS Studio」を、3ヶ月で自作した過程を全公開します（β版はMeta系3SNS対応・X対応は2026年8月の正式公開時に追加）。**
 
 
 
@@ -32,7 +32,7 @@ published: true
 
 
 
-- Instagram・Threads・Facebook の投稿に毎日30〜60分以上取られている **個人事業主・副業クリエイター**
+- Instagram・Threads・Facebook・X の投稿に毎日30〜60分以上取られている **個人事業主・副業クリエイター**
 
 - 既存のSNS管理ツール（Typefully・SocialDog・Buffer）を試したけど **「これじゃない感」** を持っている方
 
